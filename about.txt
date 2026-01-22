@@ -1,3 +1,4 @@
 Name: Rudra Gopal Mukkala
 Favorite Programming Language: Python
 What I learned: I learned how Git tracks changes and manages versions.
+usefull git command: git status
